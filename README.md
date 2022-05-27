@@ -1,7 +1,7 @@
-# -rock-paper-scissors
+# rock-paper-scissors
 A rock paper scissors project
 
-live: https://github.io/gam077/-rock-paper-scissors
+live: https://github.io/gam077/rock-paper-scissors
 
 
 Rock paper scissors game where you play against the computer.
